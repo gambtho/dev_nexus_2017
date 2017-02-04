@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-
+import renderer from 'react-test-renderer'
 import Tweet from './Tweet'
 
 describe( '<Tweet />', () => {
@@ -10,5 +10,8 @@ describe( '<Tweet />', () => {
     ReactDOM.render( <Tweet />, div )
   } )
 
-  it( `shows @dan_abramov's tweets` )
+  it( `shows @dan_abramov's tweets`, () => {
+		const el = renderer.create(<Tweet />)
+		expect(el.toJSON()).toMatchSnapshot()
+  } )
 } )
