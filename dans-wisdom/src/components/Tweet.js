@@ -1,6 +1,10 @@
 import React from 'react'
 
-const Tweet = () => (
+const Tweet = ( {
+	text,
+	favorite_count,
+	retweet_count,
+} ) => (
   <div className="tweet">
     <div className="context">
     </div>
@@ -27,7 +31,7 @@ const Tweet = () => (
       </div>
       <div className="js-tweet-text-container">
 				{ /* tweet text */ }
-        <p className="TweetTextSize js-tweet-text tweet-text" lang="en" data-aria-label-part="0">@ryanflorence @steida @nickhudkins @mjackson This is true (especially annoying you can't go "back" after regretting a nav transition)</p>
+        <p className="TweetTextSize js-tweet-text tweet-text" lang="en" data-aria-label-part="0">{ text }</p>
       </div>
       <div className="stream-item-footer">
         <div className="ProfileTweet-actionCountList u-hiddenVisually">
@@ -40,13 +44,13 @@ const Tweet = () => (
           <span className="ProfileTweet-action--retweet u-hiddenVisually">
             <span className="ProfileTweet-actionCount" aria-hidden="true" data-tweet-stat-count="0">
 							{ /* retweets */ }
-              <span className="ProfileTweet-actionCountForAria">0 retweets</span>
+              <span className="ProfileTweet-actionCountForAria">{ `${ retweet_count } retweets` }</span>
             </span>
           </span>
           <span className="ProfileTweet-action--favorite u-hiddenVisually">
             <span className="ProfileTweet-actionCount" data-tweet-stat-count="16">
 							{ /* favorites */ }
-              <span className="ProfileTweet-actionCountForAria" data-aria-label-part="">0 likes</span>
+              <span className="ProfileTweet-actionCountForAria" data-aria-label-part="">{ `${ favorite_count } likes` }</span>
             </span>
           </span>
         </div>

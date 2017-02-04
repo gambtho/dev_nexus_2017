@@ -103,7 +103,7 @@ exports[`<Tweet /> shows @dan_abramov's tweets 1`] = `
             <span
               className="ProfileTweet-actionCountForAria"
               data-aria-label-part="">
-              0 likes
+              1 likes
             </span>
           </span>
         </span>
