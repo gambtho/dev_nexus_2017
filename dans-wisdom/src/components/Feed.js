@@ -1,6 +1,5 @@
 import React from 'react'
-
-const Tweet = () => ( <span/> )
+import Tweet from './Tweet'
 
 const Feed = (props) => {
 

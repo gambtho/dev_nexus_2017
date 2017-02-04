@@ -18,6 +18,5 @@ describe( '<Feed />', () => {
     expect( el$.find( 'Tweet' ).length >= 10 )
       .toEqual( true )
   } )
-
-  it( `shows @dan_abramov's tweets` )
 } )
+
