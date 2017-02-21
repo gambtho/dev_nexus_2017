@@ -7,15 +7,28 @@ import {
   getTweetsFromState,
 } from './reducers'
 
-export const App = ( { tweets } ) =>
+import {
+  loadTweets,
+} from './actions'
+
+export const App = ( { tweets, onLoadMore } ) =>
   <div className="App">
     <Feed tweets={ tweets } />
+    <button onClick={ onLoadMore }>Load More</button>
   </div>
 
+App.propTypes = {
+  tweets: React.PropTypes.array,
+  onLoadMore: React.PropTypes.func,
+}
 
 const mapStateToProps = ( state ) => ( {
   tweets: getTweetsFromState( state ),
 } )
+const mapDispatchToProps = dispatch => ( {
+  onLoadMore: () => dispatch( loadTweets() ),
+} )
 export default connect(
   mapStateToProps,
+  mapDispatchToProps,
 )( App )
