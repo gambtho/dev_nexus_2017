@@ -18,13 +18,16 @@ export const getNextPage = state =>
 export const getTweetsFromState = state =>
   ( state.ids || [] ).map( getTweet( state ) )
 
+
+
+const dedup = nums => [ ...new Set( nums ) ]
 //
 // reducers
 
 // tweet IDs
 const ids = handleActions( {
   [ receivedTweets ]: ( state, { payload } ) =>
-    state.concat( payload.map( getID ) ),
+    dedup( state.concat( payload.map( getID ) ) ),
 }, [] )
 
 // tweets in a map, by ID
