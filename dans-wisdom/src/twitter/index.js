@@ -13,5 +13,11 @@ export const loadTweets =
     `screen_name=${ screen_name }`,
     'count=25',
   ].join( '&' ) )
+    .then( r => {
+      if ( !r.ok ) {
+        throw Error( r.statusText )
+      }
+      return r
+    } )
     .then( r => r.json() )
 

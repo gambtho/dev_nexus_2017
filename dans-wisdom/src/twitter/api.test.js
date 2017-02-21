@@ -35,6 +35,14 @@ describe( 'twitter api', () => {
       e => Promise.reject( JSON.stringify( e ) ),
     )
   )
+  it( 'handles failure', () => {
+    nock.cleanAll()
+    nock( /.*/ ).get( /.*/ ).reply( 400 )
+    return loadTweets().then(
+      () => Promise.reject( 'Should have failed' ),
+      () => Promise.resolve( 'Expected rejection' ),
+    )
+  } )
 
 } )
 
