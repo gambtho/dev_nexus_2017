@@ -6,17 +6,18 @@ import {
   receivedTweets,
 } from '../actions'
 
+const getID = tweet => tweet.id
+const getTweet = state => id => state.byId[ id ]
+
 export const getLoadingFromState = state =>
   state.isLoading
 
 export const getNextPage = state =>
-  ( state.ids ? Math.max( ...state.ids ) : undefined )
+  ( state.ids && state.ids.length ? Math.min( ...state.ids ) : undefined )
 
 export const getTweetsFromState = state =>
   ( state.ids || [] ).map( getTweet( state ) )
 
-const getID = tweet => tweet.id
-const getTweet = state => id => state.byId[ id ]
 //
 // reducers
 
