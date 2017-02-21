@@ -1,36 +1,36 @@
 import React from 'react'
 
 const Tweet = ( {
-	text,
-	favorite_count,
-	retweet_count,
+  text,
+  favorite_count,
+  retweet_count,
 } ) => (
   <div className="tweet">
     <div className="context">
     </div>
     <div className="content">
       <div className="stream-item-header">
-				{ /* link to user */ }
+        { /* link to user */ }
         <a className="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/dan_abramov">
-					{ /* avatar */ }
+          { /* avatar */ }
           <img className="avatar js-action-profile-avatar"
-						src="https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg" alt=""/>
+            src="https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg" alt=""/>
 
-					{ /* name */ }
+          { /* name */ }
           <strong className="fullname js-action-profile-name show-popup-with-id">Dan Abramov</strong>
-        { ' ' }
-					{ /* username */ }
+          { ' ' }
+          { /* username */ }
           <span>&rlm;</span><span className="username js-action-profile-name" data-aria-label-part=""><s>@</s><b>dan_abramov</b></span>
-        { ' ' }
+          { ' ' }
         </a>
         { ' ' }
         <small className="time">
-        { ' ' }
+          { ' ' }
           <a href="/dan_abramov/status/808735457785901057" className="tweet-timestamp js-permalink js-nav js-tooltip" title="10:08 AM - 13 Dec 2016"><span className="_timestamp js-short-timestamp js-relative-timestamp" data-time="1481652533" data-time-ms="1481652533000" data-long-form="true" aria-hidden="true">5h</span><span className="u-hiddenVisually" data-aria-label-part="last">5 hours ago</span></a>
         </small>
       </div>
       <div className="js-tweet-text-container">
-				{ /* tweet text */ }
+        { /* tweet text */ }
         <p className="TweetTextSize js-tweet-text tweet-text" lang="en" data-aria-label-part="0">{ text }</p>
       </div>
       <div className="stream-item-footer">
@@ -43,13 +43,13 @@ const Tweet = ( {
           </span>
           <span className="ProfileTweet-action--retweet u-hiddenVisually">
             <span className="ProfileTweet-actionCount" aria-hidden="true" data-tweet-stat-count="0">
-							{ /* retweets */ }
+              { /* retweets */ }
               <span className="ProfileTweet-actionCountForAria">{ `${ retweet_count } retweets` }</span>
             </span>
           </span>
           <span className="ProfileTweet-action--favorite u-hiddenVisually">
             <span className="ProfileTweet-actionCount" data-tweet-stat-count="16">
-							{ /* favorites */ }
+              { /* favorites */ }
               <span className="ProfileTweet-actionCountForAria" data-aria-label-part="">{ `${ favorite_count } likes` }</span>
             </span>
           </span>
