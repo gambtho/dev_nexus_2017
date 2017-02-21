@@ -15,7 +15,7 @@ describe( '<Tweet />', () => {
   } )
 
   it( `shows @dan_abramov's tweets`, () => {
-		const el = renderer.create(<Tweet { ...firstTweet } />)
-		expect(el.toJSON()).toMatchSnapshot()
+    const el = renderer.create(<Tweet { ...firstTweet } />)
+    expect(el.toJSON()).toMatchSnapshot()
   } )
 } )

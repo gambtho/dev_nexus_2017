@@ -1,13 +1,12 @@
 import React from 'react'
 import Tweet from './Tweet'
 
-const Feed = (props) => {
-
-  return <div> {props.tweets.map(tweet =>
-    <Tweet {...tweet} />
-  ) }
-    </div>
-}
+const Feed = ( { tweets } ) =>
+  <div>
+    { tweets.map( tweet =>
+      <Tweet { ...tweet } key={ tweet.id } />
+    ) }
+  </div>
 
 Feed.defaultProps = {
   tweets: [],
