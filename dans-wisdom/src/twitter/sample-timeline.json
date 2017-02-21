@@ -1,1 +1,3349 @@
-[{"created_at":"Sat Feb 04 18:25:58 +0000 2017","id":827946313832603648,"id_str":"827946313832603648","text":"@ryanflorence @steida @nickhudkins @mjackson This is true (especially annoying you can't go \"back\" after regretting a nav transition)","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"ryanflorence","name":"Ryan Florence","id":16468446,"id_str":"16468446","indices":[0,13]},{"screen_name":"steida","name":"Daniel Steigerwald","id":20611180,"id_str":"20611180","indices":[14,21]},{"screen_name":"nickhudkins","name":"Nick Hudkins","id":17168493,"id_str":"17168493","indices":[22,34]},{"screen_name":"mjackson","name":"MICHAEL JACKSON","id":734903,"id_str":"734903","indices":[35,44]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827944895419555840,"in_reply_to_status_id_str":"827944895419555840","in_reply_to_user_id":16468446,"in_reply_to_user_id_str":"16468446","in_reply_to_screen_name":"ryanflorence","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":1,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 15:23:34 +0000 2017","id":827900411440930817,"id_str":"827900411440930817","text":"RT @mjackson: What kinds of \"complex\" apps would you like to see rebuilt in React Router v4 on native? Wanna build some demos.","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"mjackson","name":"MICHAEL JACKSON","id":734903,"id_str":"734903","indices":[3,12]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"retweeted_status":{"created_at":"Sat Feb 04 14:59:28 +0000 2017","id":827894348956135424,"id_str":"827894348956135424","text":"What kinds of \"complex\" apps would you like to see rebuilt in React Router v4 on native? Wanna build some demos.","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e","in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":734903,"id_str":"734903","name":"MICHAEL JACKSON","screen_name":"mjackson","location":"Carlsbad, CA","description":"Co-founder @ReactJSTraining. Co-wrote https:\/\/t.co\/vjQ7fbwebW. Created @unpkg. Prev at @YCombinator, @Twitter, @Path. \ud83c\uddee\ud83c\uddf9 \ud83c\uddfa\ud83c\uddf8","url":"https:\/\/t.co\/JdnAebiPrv","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/JdnAebiPrv","expanded_url":"http:\/\/mjackson.me","display_url":"mjackson.me","indices":[0,23]}]},"description":{"urls":[{"url":"https:\/\/t.co\/vjQ7fbwebW","expanded_url":"http:\/\/npm.im\/react-router","display_url":"npm.im\/react-router","indices":[38,61]}]}},"protected":false,"followers_count":17889,"friends_count":318,"listed_count":518,"created_at":"Tue Jan 30 23:35:28 +0000 2007","favourites_count":8885,"utc_offset":-28800,"time_zone":"Pacific Time (US & Canada)","geo_enabled":true,"verified":false,"statuses_count":16641,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"202020","profile_background_image_url":"http:\/\/pbs.twimg.com\/profile_background_images\/452140502213595136\/JNBVDhR0.jpeg","profile_background_image_url_https":"https:\/\/pbs.twimg.com\/profile_background_images\/452140502213595136\/JNBVDhR0.jpeg","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/824351048508723200\/-TpnEcmb_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/824351048508723200\/-TpnEcmb_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/734903\/1481431680","profile_link_color":"E81C4F","profile_sidebar_border_color":"FFFFFF","profile_sidebar_fill_color":"EBEBEB","profile_text_color":"474747","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"regular"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":5,"favorite_count":18,"favorited":false,"retweeted":false,"lang":"en"},"is_quote_status":false,"retweet_count":5,"favorite_count":0,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 12:03:26 +0000 2017","id":827850044627943424,"id_str":"827850044627943424","text":"RT @james_k_nelson: Hacked together an MDX loader that converts #markdown to #JSX. Pretty neat way to document #reactjs components.\nhttps:\/\u2026","truncated":false,"entities":{"hashtags":[{"text":"markdown","indices":[64,73]},{"text":"JSX","indices":[77,81]},{"text":"reactjs","indices":[111,119]}],"symbols":[],"user_mentions":[{"screen_name":"james_k_nelson","name":"James K Nelson","id":144714271,"id_str":"144714271","indices":[3,18]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e","in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"retweeted_status":{"created_at":"Sat Feb 04 06:17:32 +0000 2017","id":827762999758721025,"id_str":"827762999758721025","text":"Hacked together an MDX loader that converts #markdown to #JSX. Pretty neat way to document #reactjs components.\u2026 https:\/\/t.co\/RZ0go0HMgT","truncated":true,"entities":{"hashtags":[{"text":"markdown","indices":[44,53]},{"text":"JSX","indices":[57,61]},{"text":"reactjs","indices":[91,99]}],"symbols":[],"user_mentions":[],"urls":[{"url":"https:\/\/t.co\/RZ0go0HMgT","expanded_url":"https:\/\/twitter.com\/i\/web\/status\/827762999758721025","display_url":"twitter.com\/i\/web\/status\/8\u2026","indices":[113,136]}]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":144714271,"id_str":"144714271","name":"James K Nelson","screen_name":"james_k_nelson","location":"Tokyo","description":"I've been writing #JavaScript for over half my life, and would like to share what I've learned along the way.","url":"https:\/\/t.co\/egAJXFWrjC","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/egAJXFWrjC","expanded_url":"http:\/\/jamesknelson.com","display_url":"jamesknelson.com","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":2569,"friends_count":64,"listed_count":146,"created_at":"Mon May 17 03:28:22 +0000 2010","favourites_count":351,"utc_offset":32400,"time_zone":"Tokyo","geo_enabled":false,"verified":false,"statuses_count":552,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"C0DEED","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/790011698803466240\/OmyNE2Bv_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/790011698803466240\/OmyNE2Bv_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/144714271\/1424942319","profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"has_extended_profile":false,"default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":34,"favorite_count":96,"favorited":false,"retweeted":false,"possibly_sensitive":false,"lang":"en"},"is_quote_status":false,"retweet_count":34,"favorite_count":0,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 02:23:45 +0000 2017","id":827704164369256448,"id_str":"827704164369256448","text":"I have a feeling one can learn a ton about JavaScript ASTs by reading every commit in this repo https:\/\/t.co\/5qBstPKTfY","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[],"urls":[{"url":"https:\/\/t.co\/5qBstPKTfY","expanded_url":"https:\/\/github.com\/jlongster\/prettier\/commits\/master","display_url":"github.com\/jlongster\/pret\u2026","indices":[96,119]}]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":29,"favorite_count":227,"favorited":false,"retweeted":false,"possibly_sensitive":false,"lang":"en"},{"created_at":"Sat Feb 04 01:22:59 +0000 2017","id":827688873878814720,"id_str":"827688873878814720","text":"@rauchg @concreteniche There\u2019s plenty of weird things in current JSX impl. See https:\/\/t.co\/QO6WbDPM6p","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]}],"urls":[{"url":"https:\/\/t.co\/QO6WbDPM6p","expanded_url":"https:\/\/github.com\/facebook\/jsx\/issues\/65","display_url":"github.com\/facebook\/jsx\/i\u2026","indices":[79,102]}]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827688756345974784,"in_reply_to_status_id_str":"827688756345974784","in_reply_to_user_id":70345946,"in_reply_to_user_id_str":"70345946","in_reply_to_screen_name":"dan_abramov","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":1,"favorited":false,"retweeted":false,"possibly_sensitive":false,"lang":"en"},{"created_at":"Sat Feb 04 01:22:31 +0000 2017","id":827688756345974784,"id_str":"827688756345974784","text":"@rauchg @concreteniche I\u2019m sure by the time JSX is good enough to become part of ES we\u2019ll figure something out :-)","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827688330301169664,"in_reply_to_status_id_str":"827688330301169664","in_reply_to_user_id":15540222,"in_reply_to_user_id_str":"15540222","in_reply_to_screen_name":"rauchg","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":1,"favorite_count":4,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 01:13:43 +0000 2017","id":827686541883490304,"id_str":"827686541883490304","text":"@rauchg @concreteniche @FormidableLabs import &lt;&gt; from 'react', lol","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827685964894048256,"in_reply_to_status_id_str":"827685964894048256","in_reply_to_user_id":15540222,"in_reply_to_user_id_str":"15540222","in_reply_to_screen_name":"rauchg","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":4,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 01:11:02 +0000 2017","id":827685866202075138,"id_str":"827685866202075138","text":"@rauchg @concreteniche @FormidableLabs (at least every used one)","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827685670311362560,"in_reply_to_status_id_str":"827685670311362560","in_reply_to_user_id":70345946,"in_reply_to_user_id_str":"70345946","in_reply_to_screen_name":"dan_abramov","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 01:10:16 +0000 2017","id":827685670311362560,"id_str":"827685670311362560","text":"@rauchg @concreteniche @FormidableLabs But you\u2019re still bloating bundle with a function for every supported tag.","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827685451507056640,"in_reply_to_status_id_str":"827685451507056640","in_reply_to_user_id":15540222,"in_reply_to_user_id_str":"15540222","in_reply_to_screen_name":"rauchg","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":1,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 01:09:41 +0000 2017","id":827685525091913728,"id_str":"827685525091913728","text":"@rauchg @concreteniche @FormidableLabs JSX is already generalized with a different pragma. React as default is pragmatic.","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827685384817692674,"in_reply_to_status_id_str":"827685384817692674","in_reply_to_user_id":70345946,"in_reply_to_user_id_str":"70345946","in_reply_to_screen_name":"dan_abramov","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 01:09:08 +0000 2017","id":827685384817692674,"id_str":"827685384817692674","text":"@rauchg @concreteniche @FormidableLabs I just can\u2019t imagine we\u2019d convince people to import HTML tags. :-)","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827685159365386240,"in_reply_to_status_id_str":"827685159365386240","in_reply_to_user_id":15540222,"in_reply_to_user_id_str":"15540222","in_reply_to_screen_name":"rauchg","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":2,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 01:08:09 +0000 2017","id":827685141246050304,"id_str":"827685141246050304","text":"@rauchg @concreteniche @FormidableLabs Or maybe it would need to be a veeeery good compiler :-)","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827684878527389696,"in_reply_to_status_id_str":"827684878527389696","in_reply_to_user_id":70345946,"in_reply_to_user_id_str":"70345946","in_reply_to_screen_name":"dan_abramov","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 01:07:07 +0000 2017","id":827684878527389696,"id_str":"827684878527389696","text":"@rauchg @concreteniche @FormidableLabs This compiler would have to be aware of React which brings us back to \u201cJSX is tied to React\u201d","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827684705055174656,"in_reply_to_status_id_str":"827684705055174656","in_reply_to_user_id":15540222,"in_reply_to_user_id_str":"15540222","in_reply_to_screen_name":"rauchg","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 01:06:20 +0000 2017","id":827684683496452096,"id_str":"827684683496452096","text":"@rauchg @concreteniche @FormidableLabs Apart from size concern, doesn\u2019t it strike you as extra indirection for little gain?","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827684507650293763,"in_reply_to_status_id_str":"827684507650293763","in_reply_to_user_id":15540222,"in_reply_to_user_id_str":"15540222","in_reply_to_screen_name":"rauchg","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 01:05:35 +0000 2017","id":827684494245249024,"id_str":"827684494245249024","text":"@rauchg @concreteniche @FormidableLabs Still requires React maintain whitelist of elements and bloat the bundle, no?","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827684298157338625,"in_reply_to_status_id_str":"827684298157338625","in_reply_to_user_id":15540222,"in_reply_to_user_id_str":"15540222","in_reply_to_screen_name":"rauchg","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 01:04:14 +0000 2017","id":827684152820559873,"id_str":"827684152820559873","text":"@rauchg @concreteniche @FormidableLabs Not sure I follow :-\/ Gist?","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827683971735625729,"in_reply_to_status_id_str":"827683971735625729","in_reply_to_user_id":15540222,"in_reply_to_user_id_str":"15540222","in_reply_to_screen_name":"rauchg","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 01:03:25 +0000 2017","id":827683948255965184,"id_str":"827683948255965184","text":"@rauchg @concreteniche @FormidableLabs But this is roughly how it used to work in the past before we faced these issues. React.DOM.div()","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827683697386217473,"in_reply_to_status_id_str":"827683697386217473","in_reply_to_user_id":70345946,"in_reply_to_user_id_str":"70345946","in_reply_to_screen_name":"dan_abramov","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":1,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 01:02:25 +0000 2017","id":827683697386217473,"id_str":"827683697386217473","text":"@rauchg @concreteniche @FormidableLabs Also doesn't work for custom elements: https:\/\/t.co\/vDmjqpFn1g","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]}],"urls":[{"url":"https:\/\/t.co\/vDmjqpFn1g","expanded_url":"https:\/\/twitter.com\/dan_abramov\/status\/827678883742887936","display_url":"twitter.com\/dan_abramov\/st\u2026","indices":[78,101]}]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827683508260835328,"in_reply_to_status_id_str":"827683508260835328","in_reply_to_user_id":70345946,"in_reply_to_user_id_str":"70345946","in_reply_to_screen_name":"dan_abramov","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":true,"quoted_status_id":827678883742887936,"quoted_status_id_str":"827678883742887936","quoted_status":{"created_at":"Sat Feb 04 00:43:18 +0000 2017","id":827678883742887936,"id_str":"827678883742887936","text":"@rauchg @FormidableLabs Making element creation a factory call is how it used to be. Doesn\u2019t work for custom elements (e.g. &lt;web-component&gt;)","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[8,23]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827678621208817665,"in_reply_to_status_id_str":"827678621208817665","in_reply_to_user_id":70345946,"in_reply_to_user_id_str":"70345946","in_reply_to_screen_name":"dan_abramov","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"favorited":false,"retweeted":false,"lang":"en"},"retweet_count":0,"favorite_count":3,"favorited":false,"retweeted":false,"possibly_sensitive":false,"lang":"en"},{"created_at":"Sat Feb 04 01:01:40 +0000 2017","id":827683508260835328,"id_str":"827683508260835328","text":"@rauchg @concreteniche @FormidableLabs And writing those imports for divs manually.. People would hate it. Also would have to keep whitelist","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827683394863628288,"in_reply_to_status_id_str":"827683394863628288","in_reply_to_user_id":70345946,"in_reply_to_user_id_str":"70345946","in_reply_to_screen_name":"dan_abramov","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":2,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 01:01:13 +0000 2017","id":827683394863628288,"id_str":"827683394863628288","text":"@rauchg @concreteniche @FormidableLabs That\u2019s same reason we\u2019re relying on React to be in scope instead of inserting an import","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827683291113390080,"in_reply_to_status_id_str":"827683291113390080","in_reply_to_user_id":70345946,"in_reply_to_user_id_str":"70345946","in_reply_to_screen_name":"dan_abramov","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":1,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 01:00:48 +0000 2017","id":827683291113390080,"id_str":"827683291113390080","text":"@rauchg @concreteniche @FormidableLabs We can't emit something like `import` because can\u2019t assume module system. e.g. UMD in browser","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[8,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827682974707679232,"in_reply_to_status_id_str":"827682974707679232","in_reply_to_user_id":15540222,"in_reply_to_user_id_str":"15540222","in_reply_to_screen_name":"rauchg","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 00:58:22 +0000 2017","id":827682679227310081,"id_str":"827682679227310081","text":"@concreteniche @rauchg @FormidableLabs @babeljs See https:\/\/t.co\/rsRY8Lfwjw","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[0,14]},{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[15,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]},{"screen_name":"babeljs","name":"Babel","id":2958823554,"id_str":"2958823554","indices":[39,47]}],"urls":[{"url":"https:\/\/t.co\/rsRY8Lfwjw","expanded_url":"https:\/\/github.com\/facebook\/react\/issues\/3228","display_url":"github.com\/facebook\/react\u2026","indices":[52,75]}]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827682600374435844,"in_reply_to_status_id_str":"827682600374435844","in_reply_to_user_id":70345946,"in_reply_to_user_id_str":"70345946","in_reply_to_screen_name":"dan_abramov","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"favorited":false,"retweeted":false,"possibly_sensitive":false,"lang":"und"},{"created_at":"Sat Feb 04 00:58:04 +0000 2017","id":827682600374435844,"id_str":"827682600374435844","text":"@concreteniche @rauchg @FormidableLabs That\u2019s more or less what https:\/\/t.co\/DKnbRtHBLg is doing","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"concreteniche","name":"Patrick Smith","id":1667831797,"id_str":"1667831797","indices":[0,14]},{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[15,22]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[23,38]}],"urls":[{"url":"https:\/\/t.co\/DKnbRtHBLg","expanded_url":"https:\/\/babeljs.io\/docs\/plugins\/transform-react-inline-elements\/","display_url":"babeljs.io\/docs\/plugins\/t\u2026","indices":[64,87]}]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827682088325230592,"in_reply_to_status_id_str":"827682088325230592","in_reply_to_user_id":1667831797,"in_reply_to_user_id_str":"1667831797","in_reply_to_screen_name":"concreteniche","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"favorited":false,"retweeted":false,"possibly_sensitive":false,"lang":"en"},{"created_at":"Sat Feb 04 00:48:00 +0000 2017","id":827680066532433920,"id_str":"827680066532433920","text":"@rauchg @FormidableLabs Syntax is where I\u2019d personally draw the line. You can see what syntax transpiles to but surprising for regular JS.","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[8,23]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827679588557918208,"in_reply_to_status_id_str":"827679588557918208","in_reply_to_user_id":15540222,"in_reply_to_user_id_str":"15540222","in_reply_to_screen_name":"rauchg","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":1,"favorited":false,"retweeted":false,"lang":"en"},{"created_at":"Sat Feb 04 00:44:07 +0000 2017","id":827679091696496640,"id_str":"827679091696496640","text":"@rauchg @FormidableLabs So while depending on React in scope feels unfortunate, I don\u2019t have a better solution. Others create more problems.","truncated":false,"entities":{"hashtags":[],"symbols":[],"user_mentions":[{"screen_name":"rauchg","name":"Guillermo Rauch","id":15540222,"id_str":"15540222","indices":[0,7]},{"screen_name":"FormidableLabs","name":"Formidable","id":1616927780,"id_str":"1616927780","indices":[8,23]}],"urls":[]},"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","in_reply_to_status_id":827678883742887936,"in_reply_to_status_id_str":"827678883742887936","in_reply_to_user_id":70345946,"in_reply_to_user_id_str":"70345946","in_reply_to_screen_name":"dan_abramov","user":{"id":70345946,"id_str":"70345946","name":"Dan Abramov","screen_name":"dan_abramov","location":"London, England","description":"Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife","url":"https:\/\/t.co\/60kty8djcd","entities":{"url":{"urls":[{"url":"https:\/\/t.co\/60kty8djcd","expanded_url":"http:\/\/github.com\/gaearon","display_url":"github.com\/gaearon","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":57334,"friends_count":717,"listed_count":1638,"created_at":"Mon Aug 31 08:28:07 +0000 2009","favourites_count":32664,"utc_offset":0,"time_zone":"London","geo_enabled":false,"verified":false,"statuses_count":35006,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/826786122638426114\/PR4tsq-i_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/70345946\/1485957001","profile_link_color":"04071C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"has_extended_profile":false,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"favorited":false,"retweeted":false,"lang":"en"}]
+[
+  {
+    "created_at": "Sat Feb 04 18:25:58 +0000 2017",
+    "id": 827946313832603600,
+    "id_str": "827946313832603648",
+    "text": "@ryanflorence @steida @nickhudkins @mjackson This is true (especially annoying you can't go \"back\" after regretting a nav transition)",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ryanflorence",
+          "name": "Ryan Florence",
+          "id": 16468446,
+          "id_str": "16468446",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "steida",
+          "name": "Daniel Steigerwald",
+          "id": 20611180,
+          "id_str": "20611180",
+          "indices": [
+            14,
+            21
+          ]
+        },
+        {
+          "screen_name": "nickhudkins",
+          "name": "Nick Hudkins",
+          "id": 17168493,
+          "id_str": "17168493",
+          "indices": [
+            22,
+            34
+          ]
+        },
+        {
+          "screen_name": "mjackson",
+          "name": "MICHAEL JACKSON",
+          "id": 734903,
+          "id_str": "734903",
+          "indices": [
+            35,
+            44
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827944895419555800,
+    "in_reply_to_status_id_str": "827944895419555840",
+    "in_reply_to_user_id": 16468446,
+    "in_reply_to_user_id_str": "16468446",
+    "in_reply_to_screen_name": "ryanflorence",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 15:23:34 +0000 2017",
+    "id": 827900411440930800,
+    "id_str": "827900411440930817",
+    "text": "RT @mjackson: What kinds of \"complex\" apps would you like to see rebuilt in React Router v4 on native? Wanna build some demos.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "mjackson",
+          "name": "MICHAEL JACKSON",
+          "id": 734903,
+          "id_str": "734903",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Feb 04 14:59:28 +0000 2017",
+      "id": 827894348956135400,
+      "id_str": "827894348956135424",
+      "text": "What kinds of \"complex\" apps would you like to see rebuilt in React Router v4 on native? Wanna build some demos.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 734903,
+        "id_str": "734903",
+        "name": "MICHAEL JACKSON",
+        "screen_name": "mjackson",
+        "location": "Carlsbad, CA",
+        "description": "Co-founder @ReactJSTraining. Co-wrote https://t.co/vjQ7fbwebW. Created @unpkg. Prev at @YCombinator, @Twitter, @Path. 🇮🇹 🇺🇸",
+        "url": "https://t.co/JdnAebiPrv",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/JdnAebiPrv",
+                "expanded_url": "http://mjackson.me",
+                "display_url": "mjackson.me",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/vjQ7fbwebW",
+                "expanded_url": "http://npm.im/react-router",
+                "display_url": "npm.im/react-router",
+                "indices": [
+                  38,
+                  61
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 17889,
+        "friends_count": 318,
+        "listed_count": 518,
+        "created_at": "Tue Jan 30 23:35:28 +0000 2007",
+        "favourites_count": 8885,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16641,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "202020",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452140502213595136/JNBVDhR0.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452140502213595136/JNBVDhR0.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/824351048508723200/-TpnEcmb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/824351048508723200/-TpnEcmb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/734903/1481431680",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "474747",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 12:03:26 +0000 2017",
+    "id": 827850044627943400,
+    "id_str": "827850044627943424",
+    "text": "RT @james_k_nelson: Hacked together an MDX loader that converts #markdown to #JSX. Pretty neat way to document #reactjs components.\nhttps:/…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "markdown",
+          "indices": [
+            64,
+            73
+          ]
+        },
+        {
+          "text": "JSX",
+          "indices": [
+            77,
+            81
+          ]
+        },
+        {
+          "text": "reactjs",
+          "indices": [
+            111,
+            119
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "james_k_nelson",
+          "name": "James K Nelson",
+          "id": 144714271,
+          "id_str": "144714271",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Feb 04 06:17:32 +0000 2017",
+      "id": 827762999758721000,
+      "id_str": "827762999758721025",
+      "text": "Hacked together an MDX loader that converts #markdown to #JSX. Pretty neat way to document #reactjs components.… https://t.co/RZ0go0HMgT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "markdown",
+            "indices": [
+              44,
+              53
+            ]
+          },
+          {
+            "text": "JSX",
+            "indices": [
+              57,
+              61
+            ]
+          },
+          {
+            "text": "reactjs",
+            "indices": [
+              91,
+              99
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RZ0go0HMgT",
+            "expanded_url": "https://twitter.com/i/web/status/827762999758721025",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 144714271,
+        "id_str": "144714271",
+        "name": "James K Nelson",
+        "screen_name": "james_k_nelson",
+        "location": "Tokyo",
+        "description": "I've been writing #JavaScript for over half my life, and would like to share what I've learned along the way.",
+        "url": "https://t.co/egAJXFWrjC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/egAJXFWrjC",
+                "expanded_url": "http://jamesknelson.com",
+                "display_url": "jamesknelson.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2569,
+        "friends_count": 64,
+        "listed_count": 146,
+        "created_at": "Mon May 17 03:28:22 +0000 2010",
+        "favourites_count": 351,
+        "utc_offset": 32400,
+        "time_zone": "Tokyo",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 552,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/790011698803466240/OmyNE2Bv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/790011698803466240/OmyNE2Bv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/144714271/1424942319",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 34,
+      "favorite_count": 96,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 34,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 02:23:45 +0000 2017",
+    "id": 827704164369256400,
+    "id_str": "827704164369256448",
+    "text": "I have a feeling one can learn a ton about JavaScript ASTs by reading every commit in this repo https://t.co/5qBstPKTfY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/5qBstPKTfY",
+          "expanded_url": "https://github.com/jlongster/prettier/commits/master",
+          "display_url": "github.com/jlongster/pret…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 29,
+    "favorite_count": 227,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:22:59 +0000 2017",
+    "id": 827688873878814700,
+    "id_str": "827688873878814720",
+    "text": "@rauchg @concreteniche There’s plenty of weird things in current JSX impl. See https://t.co/QO6WbDPM6p",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QO6WbDPM6p",
+          "expanded_url": "https://github.com/facebook/jsx/issues/65",
+          "display_url": "github.com/facebook/jsx/i…",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827688756345974800,
+    "in_reply_to_status_id_str": "827688756345974784",
+    "in_reply_to_user_id": 70345946,
+    "in_reply_to_user_id_str": "70345946",
+    "in_reply_to_screen_name": "dan_abramov",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:22:31 +0000 2017",
+    "id": 827688756345974800,
+    "id_str": "827688756345974784",
+    "text": "@rauchg @concreteniche I’m sure by the time JSX is good enough to become part of ES we’ll figure something out :-)",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827688330301169700,
+    "in_reply_to_status_id_str": "827688330301169664",
+    "in_reply_to_user_id": 15540222,
+    "in_reply_to_user_id_str": "15540222",
+    "in_reply_to_screen_name": "rauchg",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:13:43 +0000 2017",
+    "id": 827686541883490300,
+    "id_str": "827686541883490304",
+    "text": "@rauchg @concreteniche @FormidableLabs import &lt;&gt; from 'react', lol",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827685964894048300,
+    "in_reply_to_status_id_str": "827685964894048256",
+    "in_reply_to_user_id": 15540222,
+    "in_reply_to_user_id_str": "15540222",
+    "in_reply_to_screen_name": "rauchg",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:11:02 +0000 2017",
+    "id": 827685866202075100,
+    "id_str": "827685866202075138",
+    "text": "@rauchg @concreteniche @FormidableLabs (at least every used one)",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827685670311362600,
+    "in_reply_to_status_id_str": "827685670311362560",
+    "in_reply_to_user_id": 70345946,
+    "in_reply_to_user_id_str": "70345946",
+    "in_reply_to_screen_name": "dan_abramov",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:10:16 +0000 2017",
+    "id": 827685670311362600,
+    "id_str": "827685670311362560",
+    "text": "@rauchg @concreteniche @FormidableLabs But you’re still bloating bundle with a function for every supported tag.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827685451507056600,
+    "in_reply_to_status_id_str": "827685451507056640",
+    "in_reply_to_user_id": 15540222,
+    "in_reply_to_user_id_str": "15540222",
+    "in_reply_to_screen_name": "rauchg",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:09:41 +0000 2017",
+    "id": 827685525091913700,
+    "id_str": "827685525091913728",
+    "text": "@rauchg @concreteniche @FormidableLabs JSX is already generalized with a different pragma. React as default is pragmatic.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827685384817692700,
+    "in_reply_to_status_id_str": "827685384817692674",
+    "in_reply_to_user_id": 70345946,
+    "in_reply_to_user_id_str": "70345946",
+    "in_reply_to_screen_name": "dan_abramov",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:09:08 +0000 2017",
+    "id": 827685384817692700,
+    "id_str": "827685384817692674",
+    "text": "@rauchg @concreteniche @FormidableLabs I just can’t imagine we’d convince people to import HTML tags. :-)",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827685159365386200,
+    "in_reply_to_status_id_str": "827685159365386240",
+    "in_reply_to_user_id": 15540222,
+    "in_reply_to_user_id_str": "15540222",
+    "in_reply_to_screen_name": "rauchg",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:08:09 +0000 2017",
+    "id": 827685141246050300,
+    "id_str": "827685141246050304",
+    "text": "@rauchg @concreteniche @FormidableLabs Or maybe it would need to be a veeeery good compiler :-)",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827684878527389700,
+    "in_reply_to_status_id_str": "827684878527389696",
+    "in_reply_to_user_id": 70345946,
+    "in_reply_to_user_id_str": "70345946",
+    "in_reply_to_screen_name": "dan_abramov",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:07:07 +0000 2017",
+    "id": 827684878527389700,
+    "id_str": "827684878527389696",
+    "text": "@rauchg @concreteniche @FormidableLabs This compiler would have to be aware of React which brings us back to “JSX is tied to React”",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827684705055174700,
+    "in_reply_to_status_id_str": "827684705055174656",
+    "in_reply_to_user_id": 15540222,
+    "in_reply_to_user_id_str": "15540222",
+    "in_reply_to_screen_name": "rauchg",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:06:20 +0000 2017",
+    "id": 827684683496452100,
+    "id_str": "827684683496452096",
+    "text": "@rauchg @concreteniche @FormidableLabs Apart from size concern, doesn’t it strike you as extra indirection for little gain?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827684507650293800,
+    "in_reply_to_status_id_str": "827684507650293763",
+    "in_reply_to_user_id": 15540222,
+    "in_reply_to_user_id_str": "15540222",
+    "in_reply_to_screen_name": "rauchg",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:05:35 +0000 2017",
+    "id": 827684494245249000,
+    "id_str": "827684494245249024",
+    "text": "@rauchg @concreteniche @FormidableLabs Still requires React maintain whitelist of elements and bloat the bundle, no?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827684298157338600,
+    "in_reply_to_status_id_str": "827684298157338625",
+    "in_reply_to_user_id": 15540222,
+    "in_reply_to_user_id_str": "15540222",
+    "in_reply_to_screen_name": "rauchg",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:04:14 +0000 2017",
+    "id": 827684152820559900,
+    "id_str": "827684152820559873",
+    "text": "@rauchg @concreteniche @FormidableLabs Not sure I follow :-/ Gist?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827683971735625700,
+    "in_reply_to_status_id_str": "827683971735625729",
+    "in_reply_to_user_id": 15540222,
+    "in_reply_to_user_id_str": "15540222",
+    "in_reply_to_screen_name": "rauchg",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:03:25 +0000 2017",
+    "id": 827683948255965200,
+    "id_str": "827683948255965184",
+    "text": "@rauchg @concreteniche @FormidableLabs But this is roughly how it used to work in the past before we faced these issues. React.DOM.div()",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827683697386217500,
+    "in_reply_to_status_id_str": "827683697386217473",
+    "in_reply_to_user_id": 70345946,
+    "in_reply_to_user_id_str": "70345946",
+    "in_reply_to_screen_name": "dan_abramov",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:02:25 +0000 2017",
+    "id": 827683697386217500,
+    "id_str": "827683697386217473",
+    "text": "@rauchg @concreteniche @FormidableLabs Also doesn't work for custom elements: https://t.co/vDmjqpFn1g",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vDmjqpFn1g",
+          "expanded_url": "https://twitter.com/dan_abramov/status/827678883742887936",
+          "display_url": "twitter.com/dan_abramov/st…",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827683508260835300,
+    "in_reply_to_status_id_str": "827683508260835328",
+    "in_reply_to_user_id": 70345946,
+    "in_reply_to_user_id_str": "70345946",
+    "in_reply_to_screen_name": "dan_abramov",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 827678883742888000,
+    "quoted_status_id_str": "827678883742887936",
+    "quoted_status": {
+      "created_at": "Sat Feb 04 00:43:18 +0000 2017",
+      "id": 827678883742888000,
+      "id_str": "827678883742887936",
+      "text": "@rauchg @FormidableLabs Making element creation a factory call is how it used to be. Doesn’t work for custom elements (e.g. &lt;web-component&gt;)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rauchg",
+            "name": "Guillermo Rauch",
+            "id": 15540222,
+            "id_str": "15540222",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "FormidableLabs",
+            "name": "Formidable",
+            "id": 1616927780,
+            "id_str": "1616927780",
+            "indices": [
+              8,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 827678621208817700,
+      "in_reply_to_status_id_str": "827678621208817665",
+      "in_reply_to_user_id": 70345946,
+      "in_reply_to_user_id_str": "70345946",
+      "in_reply_to_screen_name": "dan_abramov",
+      "user": {
+        "id": 70345946,
+        "id_str": "70345946",
+        "name": "Dan Abramov",
+        "screen_name": "dan_abramov",
+        "location": "London, England",
+        "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+        "url": "https://t.co/60kty8djcd",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/60kty8djcd",
+                "expanded_url": "http://github.com/gaearon",
+                "display_url": "github.com/gaearon",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 57334,
+        "friends_count": 717,
+        "listed_count": 1638,
+        "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+        "favourites_count": 32664,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 35006,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+        "profile_link_color": "04071C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:01:40 +0000 2017",
+    "id": 827683508260835300,
+    "id_str": "827683508260835328",
+    "text": "@rauchg @concreteniche @FormidableLabs And writing those imports for divs manually.. People would hate it. Also would have to keep whitelist",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827683394863628300,
+    "in_reply_to_status_id_str": "827683394863628288",
+    "in_reply_to_user_id": 70345946,
+    "in_reply_to_user_id_str": "70345946",
+    "in_reply_to_screen_name": "dan_abramov",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:01:13 +0000 2017",
+    "id": 827683394863628300,
+    "id_str": "827683394863628288",
+    "text": "@rauchg @concreteniche @FormidableLabs That’s same reason we’re relying on React to be in scope instead of inserting an import",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827683291113390100,
+    "in_reply_to_status_id_str": "827683291113390080",
+    "in_reply_to_user_id": 70345946,
+    "in_reply_to_user_id_str": "70345946",
+    "in_reply_to_screen_name": "dan_abramov",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 01:00:48 +0000 2017",
+    "id": 827683291113390100,
+    "id_str": "827683291113390080",
+    "text": "@rauchg @concreteniche @FormidableLabs We can't emit something like `import` because can’t assume module system. e.g. UMD in browser",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827682974707679200,
+    "in_reply_to_status_id_str": "827682974707679232",
+    "in_reply_to_user_id": 15540222,
+    "in_reply_to_user_id_str": "15540222",
+    "in_reply_to_screen_name": "rauchg",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 00:58:22 +0000 2017",
+    "id": 827682679227310100,
+    "id_str": "827682679227310081",
+    "text": "@concreteniche @rauchg @FormidableLabs @babeljs See https://t.co/rsRY8Lfwjw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            15,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        },
+        {
+          "screen_name": "babeljs",
+          "name": "Babel",
+          "id": 2958823554,
+          "id_str": "2958823554",
+          "indices": [
+            39,
+            47
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rsRY8Lfwjw",
+          "expanded_url": "https://github.com/facebook/react/issues/3228",
+          "display_url": "github.com/facebook/react…",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827682600374435800,
+    "in_reply_to_status_id_str": "827682600374435844",
+    "in_reply_to_user_id": 70345946,
+    "in_reply_to_user_id_str": "70345946",
+    "in_reply_to_screen_name": "dan_abramov",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Sat Feb 04 00:58:04 +0000 2017",
+    "id": 827682600374435800,
+    "id_str": "827682600374435844",
+    "text": "@concreteniche @rauchg @FormidableLabs That’s more or less what https://t.co/DKnbRtHBLg is doing",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "concreteniche",
+          "name": "Patrick Smith",
+          "id": 1667831797,
+          "id_str": "1667831797",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            15,
+            22
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DKnbRtHBLg",
+          "expanded_url": "https://babeljs.io/docs/plugins/transform-react-inline-elements/",
+          "display_url": "babeljs.io/docs/plugins/t…",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827682088325230600,
+    "in_reply_to_status_id_str": "827682088325230592",
+    "in_reply_to_user_id": 1667831797,
+    "in_reply_to_user_id_str": "1667831797",
+    "in_reply_to_screen_name": "concreteniche",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 00:48:00 +0000 2017",
+    "id": 827680066532433900,
+    "id_str": "827680066532433920",
+    "text": "@rauchg @FormidableLabs Syntax is where I’d personally draw the line. You can see what syntax transpiles to but surprising for regular JS.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            8,
+            23
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827679588557918200,
+    "in_reply_to_status_id_str": "827679588557918208",
+    "in_reply_to_user_id": 15540222,
+    "in_reply_to_user_id_str": "15540222",
+    "in_reply_to_screen_name": "rauchg",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 00:44:07 +0000 2017",
+    "id": 827679091696496600,
+    "id_str": "827679091696496640",
+    "text": "@rauchg @FormidableLabs So while depending on React in scope feels unfortunate, I don’t have a better solution. Others create more problems.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "FormidableLabs",
+          "name": "Formidable",
+          "id": 1616927780,
+          "id_str": "1616927780",
+          "indices": [
+            8,
+            23
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 827678883742888000,
+    "in_reply_to_status_id_str": "827678883742887936",
+    "in_reply_to_user_id": 70345946,
+    "in_reply_to_user_id_str": "70345946",
+    "in_reply_to_screen_name": "dan_abramov",
+    "user": {
+      "id": 70345946,
+      "id_str": "70345946",
+      "name": "Dan Abramov",
+      "screen_name": "dan_abramov",
+      "location": "London, England",
+      "description": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs. Personal opinions. #juniordevforlife",
+      "url": "https://t.co/60kty8djcd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/60kty8djcd",
+              "expanded_url": "http://github.com/gaearon",
+              "display_url": "github.com/gaearon",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57334,
+      "friends_count": 717,
+      "listed_count": 1638,
+      "created_at": "Mon Aug 31 08:28:07 +0000 2009",
+      "favourites_count": 32664,
+      "utc_offset": 0,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35006,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826786122638426114/PR4tsq-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70345946/1485957001",
+      "profile_link_color": "04071C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

@@ -9,8 +9,11 @@ import {
 export const getLoadingFromState = state =>
   state.isLoading
 
+export const getNextPage = state =>
+  ( state.ids ? Math.max( ...state.ids ) : undefined )
+
 export const getTweetsFromState = state =>
-  state.ids.map( getTweet( state ) )
+  ( state.ids || [] ).map( getTweet( state ) )
 
 const getID = tweet => tweet.id
 const getTweet = state => id => state.byId[ id ]

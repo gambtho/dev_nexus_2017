@@ -33,6 +33,30 @@ describe( 'loadTweets', () => {
             .toEqual( expectedActions )
         } )
     } )
+
+    it( 'calculates the page needed', () => {
+      nock( /.*/ )
+        .get( /.*/ )
+        .query( q => q.max_id == 827679091696496600 )
+        .reply( 200, [ { id: 1234 } ] )
+
+      const store = mockStore({
+        ids: [ 827679091696496600 ],
+      })
+
+      const expectedActions = [
+        loadingTweets(),
+        receivedTweets( sampleTweets ),
+        loadingTweets(),
+        receivedTweets( [ { id: 1234 } ] ),
+      ]
+      return store.dispatch( loadTweets() )
+        .then( () => store.dispatch( loadTweets() ) )
+        .then( () =>
+          expect( store.getActions() )
+            .toEqual( expectedActions )
+        )
+    } )
   } )
 
   context( 'on failure', () => {
