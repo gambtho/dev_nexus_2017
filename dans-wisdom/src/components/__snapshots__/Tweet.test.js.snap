@@ -1,4 +1,4 @@
-exports[`<Tweet /> shows @dan_abramov's tweets 1`] = `
+exports[`test shows @dan_abramov's tweets 1`] = `
 <div
   className="tweet">
   <div

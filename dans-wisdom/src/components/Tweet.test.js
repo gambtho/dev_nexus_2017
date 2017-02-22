@@ -7,15 +7,13 @@ import tweets from '../twitter/sample-timeline.json'
 
 const firstTweet = tweets[ 0 ]
 
-describe( '<Tweet />', () => {
 
-  it( 'renders without exploding', () => {
-    const div = document.createElement( 'div' )
-    ReactDOM.render( <Tweet />, div )
-  } )
+it( 'renders without exploding', () => {
+  const div = document.createElement( 'div' )
+  ReactDOM.render( <Tweet />, div )
+} )
 
-  it( `shows @dan_abramov's tweets`, () => {
-    const el = renderer.create(<Tweet { ...firstTweet } />)
-    expect(el.toJSON()).toMatchSnapshot()
-  } )
+it( `shows @dan_abramov's tweets`, () => {
+  const el = renderer.create(<Tweet { ...firstTweet } />)
+  expect(el.toJSON()).toMatchSnapshot()
 } )

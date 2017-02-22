@@ -8,13 +8,11 @@ import {
   tweetsLoaded,
 } from '../reducers/test-states'
 
-describe( 'App container', () => {
-  it( 'gets tweets from state', () => {
-    const store = configureStore( tweetsLoaded( {} ) )
-    expect(
-      shallow( <App store={ store } /> )
-        .find( 'App' )
-        .prop( 'tweets' )
-    ).toEqual( sampleTweets )
-  } )
+it( 'gets tweets from state', () => {
+  const store = configureStore( tweetsLoaded( {} ) )
+  expect(
+    shallow( <App store={ store } /> )
+    .find( 'App' )
+    .prop( 'tweets' )
+  ).toEqual( sampleTweets )
 } )

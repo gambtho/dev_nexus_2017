@@ -1,6 +1,6 @@
 import render from './'
 
-it( 'does so without explosion', () => {
+it( 'renders without explosion', () => {
   render( document.createElement( 'div' ) )
 } )
 
