@@ -1,14 +1,10 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import { shallow } from 'enzyme'
-
-import { App } from './App';
-import Feed from './components/Feed'
-
+import App from './App'
+import Feed from './Feed'
 
 it('renders without crashing', () => {
-  const div = document.createElement('div');
-  ReactDOM.render(<App />, div);
+  expect( shallow( <App /> ).length ).toEqual( 1 )
 });
 
 it( 'shows a feed', () => {
@@ -33,21 +29,4 @@ it( 'loads more when the button is clicked', () => {
   expect( fn.mock.calls.length ).toEqual( 1 )
   el$.find( 'button' ).simulate( 'click' )
   expect( fn.mock.calls.length ).toEqual( 2 )
-} )
-
-import ConnectedApp from './App';
-import configureStore from './store'
-import {
-  sampleTweets,
-  tweetsLoaded,
-} from './reducers/test-states'
-describe( 'connected App', () => {
-  it( 'gets tweets from state', () => {
-    const store = configureStore( tweetsLoaded( {} ) )
-    expect(
-      shallow( <ConnectedApp store={ store } /> )
-        .find( App )
-        .prop( 'tweets' )
-    ).toEqual( sampleTweets )
-  } )
 } )
